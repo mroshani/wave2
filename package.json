@@ -23,7 +23,7 @@
     "express-formidable": "1.2.0",
     "jsonwebtoken": "8.5.0",
     "moment": "2.24.0",
-    "mongoose": "5.4.17",
+    "mongoose": "5.7.5",
     "multer": "1.4.1"
   }
 }
